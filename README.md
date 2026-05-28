@@ -4,4 +4,5 @@ I basically just spent hour writing up the index html and style css code.
 I made my project because it lets me learn a useful skill I will need if I decide on organising my own YSWS.
 stuff I used to make project: vs code, github.
 how to try out project:
-go to the demo link at: 
+go to the demo link at: https://bezrun9-dev.github.io/Project-Oversteer/ where the website should be live
+you can then check the github respo for the code files. 
